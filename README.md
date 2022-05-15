@@ -47,7 +47,35 @@ Best Renamer BoT on Telegram u can use easily
     <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
 
-<details><Harshith>Commands</Harshith>
-Hai iam harshith Apache License 2.0
+## About BoT
+<details><summary>Bot Features</summary>
 
+- Renaming Telegram files as file or video.
+
+- Trace Channel to track the users what they are doing with your bot.
+
+- Password to use bot in private.
+
+- Permanent thumbnail support.
+
+- Timegap to protect bot from spamming.
+
+- /mode to change upload mode.
+
+- Forcesub users to join you channel before using your bot.
+
+</details>
+
+<details><summary>commands</summary>
+ 
+```
+start - check whether bot is alive or not
+mode - change video upload mode to file or video
+showthumbnail - to check permanent thumbnail
+deletethumbnail - to delete the permanent thumbnail
+help - know how to use the bot
+about - know about the bot
+reset - (admins only) reset users database
+login - (when password is given) to login to bot
+```
 </details>
