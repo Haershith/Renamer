@@ -13,6 +13,7 @@ Best Renamer BoT on Telegram u can use easily
 <h1 align="center">
   <b>𝑴𝒖𝒕𝒚𝒂𝒍𝒂 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉</b>
 </h1>
+
 <p align="middle">
 <img src="https://telegra.ph/file/30ca4ce92f146fc14b4d6.jpg" width="170" height="150"><br>
 <img src="https://badgen.net/badge/Name/Harshith/black?icon=awesome&labelColor=0080FF"></a>
@@ -337,3 +338,6 @@ gh repo clone Mega-Hero/Renamer
 
 ## Credits
 
+[Ns anonymous](https://github.com/Ns-Bots) ||
+[SpEcHiDe](https://github.com/SpEcHiDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot) ||
+[Dan](https://telegram.dog/haskell) for his [Pyrogram](https://github.com/pyrogram/pyrogram)
