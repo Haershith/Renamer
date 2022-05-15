@@ -3,10 +3,12 @@ TeleGram Renamer BoT for telegram from [𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉](https:
 Best Renamer BoT on Telegram u can use easily
 
 
-[![Stars](https://img.shields.io/github/stars/Mega-Hero/Renamer?style=flat-square&color=black)](https://github.com/Mega-Hero/Renamer/stargazers)
-[![Forks](https://img.shields.io/github/forks/Mega-Hero/Renamer?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/Mega-Hero/Renamer?style=fslim-circle&color=green)](https://github.com/EvamariaTG/EvaMaria/) 
-
+[![Stars](https://img.shields.io/github/stars/Mega-Hero/Renamer?style=flat-circle&color=black)](https://github.com/Mega-Hero/Renamer/stargazers)
+[![Forks](https://img.shields.io/github/forks/Mega-Hero/Renamer?style=flat-circle&color=blue)](https://github.com/Mega-Hero/Renamer/fork)
+[![Size](https://img.shields.io/github/repo-size/Mega-Hero/Renamer?style=slim-circle&color=white)](https://github.com/Mega-Hero/Renamer/) 
+[![Contributors](https://img.shields.io/github/contributors/Mega-Hero/Renamer?style=flat-circle&color=grey)](https://github.com/Mega-Hero/Renamer/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Mega-Hero/Renamer/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Mega-Hero/Renamer.svg)](https://stars.medv.io/Mega-Hero/Renamer)
 
 <h1 align="center">
   <b>𝑴𝒖𝒕𝒚𝒂𝒍𝒂 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉</b>
