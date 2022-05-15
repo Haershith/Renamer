@@ -3,11 +3,14 @@ TeleGram Renamer BoT for telegram from [𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉](https:
 Best Renamer BoT on Telegram u can use easily
 
 
+[![Stars](https://img.shields.io/github/stars/Mega-Hero/Renamer?style=flat-square&color=black)](https://github.com/Mega-Hero/Renamer/stargazers)
+[![Forks](https://img.shields.io/github/forks/Mega-Hero/Renamer?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/Mega-Hero/Renamer?style=fslim-circle&color=green)](https://github.com/EvamariaTG/EvaMaria/) 
 
 
-
-𝑴𝒖𝒕𝒚𝒂𝒍𝒂 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉
-
+<h1 align="center">
+  <b>𝑴𝒖𝒕𝒚𝒂𝒍𝒂 𝑯𝒂𝒓𝒔𝒉𝒊𝒕𝒉</b>
+</h1>
 <p align="middle">
 <img src="https://telegra.ph/file/30ca4ce92f146fc14b4d6.jpg" width="170" height="150"><br>
 <img src="https://badgen.net/badge/Name/Harshith/black?icon=awesome&labelColor=0080FF"></a>
