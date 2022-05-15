@@ -49,7 +49,7 @@ Best Renamer BoT on Telegram u can use easily
   </a>
 
 ## About BoT
-<details><summary>Bot Features</summary>
+<details><summary> > 𝑩𝒐𝒕 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔</summary>
 
 - Renaming Telegram files as file or video.
 
@@ -67,7 +67,7 @@ Best Renamer BoT on Telegram u can use easily
 
 </details>
 
-<details><summary>commands</summary>
+<details><summary> > 𝒄𝒐𝒎𝒎𝒂𝒏𝒅𝒔</summary>
  
 ```
 start - check whether bot is alive or not
@@ -81,7 +81,7 @@ login - (when password is given) to login to bot
 ```
 </details>
 
-<details><summary>required for creating bot</summary>
+<details><summary> > 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝒇𝒐𝒓 𝒄𝒓𝒆𝒂𝒕𝒊𝒏𝒈 𝒃𝒐𝒕</summary>
 
 - `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org).
 
