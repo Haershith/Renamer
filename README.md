@@ -7,7 +7,7 @@ Best Renamer BoT on Telegram u can use easily
 [![Forks](https://img.shields.io/github/forks/Mega-Hero/Renamer?style=flat-circle&color=blue)](https://github.com/Mega-Hero/Renamer/fork)
 [![Size](https://img.shields.io/github/repo-size/Mega-Hero/Renamer?style=slim-circle&color=white)](https://github.com/Mega-Hero/Renamer/) 
 [![Contributors](https://img.shields.io/github/contributors/Mega-Hero/Renamer?style=flat-circle&color=grey)](https://github.com/Mega-Hero/Renamer/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Mega-Hero/Renamer/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache-white)](https://github.com/Mega-Hero/Renamer/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/Mega-Hero/Renamer.svg)](https://stars.medv.io/Mega-Hero/Renamer)
 
 <h1 align="center">
@@ -46,3 +46,8 @@ Best Renamer BoT on Telegram u can use easily
 <a href="https://www.facebook.com/Mutyala.Harshith">
     <img alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
   </a>
+
+<details><Harshith>Commands</Harshith>
+Hai iam harshith Apache License 2.0
+
+</details>
